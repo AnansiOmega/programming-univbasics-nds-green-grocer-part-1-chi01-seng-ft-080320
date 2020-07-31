@@ -11,8 +11,7 @@ end
 
 
 def consolidate_cart(cart)
-final_array = [cart]
-cart.ea
+final_array = [cart
 
   
   
