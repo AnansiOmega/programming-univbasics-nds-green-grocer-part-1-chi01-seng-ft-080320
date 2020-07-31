@@ -12,15 +12,7 @@ end
 
 def consolidate_cart(cart)
 final_array = [cart]
-cart.each do |key|
-  key[:count] = 1
-  end
-#cart.find_all do |x|
-#  cart[:item].count(x) > 1
-#binding.pry
-#end
-end
-
+cart.ea
 
   
   
