@@ -11,7 +11,10 @@ end
 
 
 def consolidate_cart(cart)
-final_array = [cart
+final_array = []
+counter = 0 
+while counter < cart.length
+
 
   
   
